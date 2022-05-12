@@ -1,0 +1,10 @@
+name: MurderMystery
+version: '${project.version}'
+main: me.squeaky2137.spigotmurdermystery.Main
+api-version: 1.18
+authors: [ squeaky2137 ]
+description: MurderMystery
+commands:
+  murder:
+    description: command for murder mystery
+    usage: /<command>
